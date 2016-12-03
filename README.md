@@ -1,0 +1,2 @@
+# EntrepreneurIgnite
+No one ever said it was easy being an entrepreneur. Whether you're in the early stages of your statrup, just secured funding for your startup or you are ready for your product launch, there will always be those three components when you ask yourself if this whole entrepreneur thing is worth it. Instead of giving up and throwing-in the proverbial white towel, keep your head up and look to the Entrepreneur Ignite quotes to inspire and motivate you during those tough patches
