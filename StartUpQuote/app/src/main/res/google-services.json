@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "289440407030",
+    "firebase_url": "https://fcmtest-bcb5f.firebaseio.com",
+    "project_id": "fcmtest-bcb5f",
+    "storage_bucket": "fcmtest-bcb5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289440407030:android:1b1e8978185e67a9",
+        "android_client_info": {
+          "package_name": "iwreaklabs.com.startupquote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289440407030-lhke9qgs4eqp9pgj7rhhgmnd7o4gos1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo3vMstPK92RjpxZwvHQmPIpOfyYNk5cU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

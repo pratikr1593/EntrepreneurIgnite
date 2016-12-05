@@ -16,6 +16,8 @@ import android.widget.Button;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
+import com.google.firebase.analytics.FirebaseAnalytics;
+
 import java.util.Random;
 
 
@@ -23,12 +25,12 @@ public class FunFactsActivity extends Activity {
 
     private FactBook mFactbook = new FactBook();
     private ColorWheel mColorWheel = new ColorWheel();
-
+    private FirebaseAnalytics mFirebaseAnalytics;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_fact_book);
-
+        mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
         //Declare our View Variables and assign the Views from the Layout file
         final TextView factlabel = (TextView) findViewById(R.id.factTextView);
         final Button showfactButton = (Button) findViewById(R.id.showFactButton);

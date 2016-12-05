@@ -8,6 +8,7 @@ public class FactBook {
     //Member Variables  (properties about the object)
 
     public String[] mFacts = {
+
             "I’ve failed over and over and over again in my life and that is why I succeed.",
             "Chase the vision, not the money; the money will end up following you.",
             "The true entrepreneur is a doer, not a dreamer.",
