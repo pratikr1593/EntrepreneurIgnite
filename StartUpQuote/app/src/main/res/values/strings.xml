@@ -5,5 +5,7 @@
     <string name="hello_world">Entrepreneur Ignite</string>
     <string name="action_settings">Settings</string>
     <string name="about">About</string>
+    <string name="az_appkey">6bd884914bb0d9aa0333f6aace4d7319</string>
+
 
 </resources>

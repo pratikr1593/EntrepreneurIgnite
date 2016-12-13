@@ -62,7 +62,26 @@ public class FactBook {
             "There’s nothing wrong with staying small. You can do big things with a small team.",
             "Ideas are easy. Implementation is hard.",
             "The best time to plant a tree was 20 years ago. The second best time is now.",
-            "Always deliver more than expected."
+            "Always deliver more than expected.",
+            "It’s never too late to be who you might have been",
+            "I could not wait for success, so I went ahead without it",
+            "The middle of every successful project looks like a disaster",
+            "You cant build a reputation on what you are going to do.",
+            "If you are not willing to risk the unusual, you will have to settle for the ordinary.",
+            "If you don’t have a competitive advantage, don’t compete.",
+            "Unless a man undertakes more than he possibly can do, he will never do all that he can.",
+            "You have to learn the rules of the game. And then you have to play better than anyone else.",
+            "\"However beautiful the strategy, you should occasionally look at the results. \"",
+            "It always seems impossible until it's done.",
+            "Don't wait. The time will never be just right.",
+            "\" Fall seven times; stand up eight\"",
+            "“Life is not a matter of holding good cards, but sometimes, playing a poor hand well.”",
+            "Nobody who ever gave his best regretted it.",
+
+
+
+
+
 
 
 

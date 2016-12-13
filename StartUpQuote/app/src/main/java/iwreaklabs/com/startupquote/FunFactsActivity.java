@@ -12,9 +12,11 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.view.Window;
 import android.widget.Button;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
+
 
 import com.google.firebase.analytics.FirebaseAnalytics;
 
@@ -26,9 +28,14 @@ public class FunFactsActivity extends Activity {
     private FactBook mFactbook = new FactBook();
     private ColorWheel mColorWheel = new ColorWheel();
     private FirebaseAnalytics mFirebaseAnalytics;
+
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        requestWindowFeature(Window.FEATURE_NO_TITLE);
+
         setContentView(R.layout.activity_fact_book);
         mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
         //Declare our View Variables and assign the Views from the Layout file
